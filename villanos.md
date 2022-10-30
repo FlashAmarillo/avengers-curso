@@ -6,3 +6,4 @@
 3. Dr. Otto
 4. Thanos
 5. Misterio
+6. Venom
