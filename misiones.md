@@ -1,3 +1,4 @@
 # Misiones
 
-* Investigar los planes de Dr Strange
+* Investigar los planes de Dr Strange.
+* Capturar a Red Skull.
