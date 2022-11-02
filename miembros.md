@@ -18,3 +18,5 @@
 * Wasp
 * Antman
 * Spider man
+* Nick Fury
+* Viuda Negra
